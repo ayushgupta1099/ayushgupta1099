@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 
 
-<p align="center>
+<p align="center">
 <img  alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img  alt="C++" width="30px" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
 <img  alt="C++" width="30px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
