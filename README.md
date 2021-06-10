@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello there, I am Ayush 👋</h1>
+<h3 size="32px" align="center">Hello there, I am Ayush 👋</h3>
 <h2 align="center">A Developer and Designer from India.</h2>
 ____________________________________________________________________
 
