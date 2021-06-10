@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - Ask me about web development and we would have an engrossing discussion
 - How to reach me? DM me on **LinkedIn** or **Instagram**
 
-</br>
 
 ## Connect with me:
 
