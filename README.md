@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Ask me about web development and we would have an engrossing discussion
 - How to reach me? DM me on **LinkedIn** or **Instagram**
 
+---
 
 ## Connect with me:
 
@@ -70,7 +71,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- <img align="left" alt="DevBahl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushgupta1099l&show_icons=true&hide_border=true&count_private=true&hide=prs,issues" /> -->
 
 [website]: https://ayushgupta1099.netlify.app/
 [instagram]: https://www.instagram.com/ayushgupta_____/
