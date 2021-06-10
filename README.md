@@ -76,10 +76,8 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=merko&hide_border=true&count_private=true&hide=prs,issues,)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1099&theme=dark)](https://git.io/streak-stats)
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=merko&count_private=true&hide=prs,issues,)
-
-<img align="left" alt="DevBahl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevBahl&show_icons=true&hide_border=true&count_private=true&hide=prs,issues," />
 
 
 --------------------------------------------
