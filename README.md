@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - I strive to make pixel perfect websites with React
 - Currently a freelancer at YesMentor
-- Worked a lot on Frontend Web Development
+- Worked a lot on Frontend Web Development and looking to collaborate on projects that use React
 - I have decent knowledge about Firebase for backend
 - Ask me about web development and we would have an engrossing discussion
 - How to reach me? DM me on **LinkedIn** or **Instagram**
