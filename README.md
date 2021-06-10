@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<img  alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img  alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-<img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img  alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>" "
+<img  alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>" " 
+<img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />" "
 <img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img  alt="Sass" width="40px" src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img  alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
