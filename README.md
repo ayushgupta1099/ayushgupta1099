@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello there, I am Ayush 👋</h1>
 <h3 align="center">A Developer and Designer from India.</h3>
-![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-<img src="https://komarev.com/ghpvc/?username=ayushgupta1099&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta1099" />
 
 - I strive to make pixel perfect websites with React
 - Currently a freelancer at YesMentor
@@ -28,20 +26,24 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="AyushGupta" width="30px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
-[<img align="left" alt="AyushGupta | LinkedIn" width="30px" src="https://img.icons8.com/fluent/80/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="AyushGupta | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="AyushGupta | Spotify" width="30px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-[<img align="left" alt="AyushGupta | Medium" width="30px" src="https://img.icons8.com/nolan/64/medium-new.png" />][medium]
+[<img align="left" alt="AyushGupta" width="32px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
+[<img align="left" alt="AyushGupta | LinkedIn" width="32px" src="https://img.icons8.com/fluent/80/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="AyushGupta | Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="AyushGupta | Spotify" width="32px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
+[<img align="left" alt="AyushGupta | Medium" width="32px" src="https://img.icons8.com/nolan/64/medium-new.png" />][medium]
 <br />
 
 ### Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://img.icons8.com/officel/16/000000/react.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="32px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="jQuery" width="32px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+<img align="left" alt="React" width="32px" src="https://img.icons8.com/officel/16/000000/react.png" />
+
+
 
 
 <img align="left" alt="Android Studio" width="30px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>
-<img align="left" alt="jQuery" width="26px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+
 <img align="left" alt="Stackoverflow" width="26px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 
 <br />
