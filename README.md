@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there, I am Ayush 👋 </br></br> A Developer and Designer from India</h1>
 
 </br>
+![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+<img src="https://komarev.com/ghpvc/?username=yukta30&label=Profile%20views&color=0e75b6&style=flat" alt="yukta30" />
+</br>
 
 - I strive to make pixel perfect websites with React
 - Currently a freelancer at YesMentor
