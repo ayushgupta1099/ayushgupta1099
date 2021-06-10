@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img  alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img  alt="C++" width="40px" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
 <img  alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -68,10 +67,6 @@ Here are some ideas to get you started:
 <img  alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="Atom" width="40px" src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
 </p>
-
-
-<br />
-<br />
 
 ---
 
