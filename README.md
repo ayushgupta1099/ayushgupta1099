@@ -36,12 +36,13 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="32px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jQuery" width="32px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
-<img align="left" alt="React" width="32px" src="https://img.icons8.com/officel/16/000000/react.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="35px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" alt="Bootstrap" width="35px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="React" width="35px" src="https://img.icons8.com/officel/16/000000/react.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="jQuery" width="35px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 
 
 
