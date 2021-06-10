@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <img align="left" alt="jQuery" width="32px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 
 <img align="left" alt="Firebase" width="32px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
