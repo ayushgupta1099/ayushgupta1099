@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello there, I am Ayush 👋 </br> A Developer and Designer from India</h1>
+<h1 align="center">Hello there, I am Ayush 👋 </br></br> A Developer and Designer from India</h1>
+
+</br>
 
 - I strive to make pixel perfect websites with React
 - Currently a freelancer at YesMentor
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 - Ask me about web development and we would have an engrossing discussion
 - How to reach me? DM me on **LinkedIn** or **Instagram**
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="AyushGupta" width="32px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
 [<img align="left" alt="AyushGupta | LinkedIn" width="32px" src="https://img.icons8.com/fluent/80/000000/linkedin.png" />][linkedin]
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="AyushGupta | Medium" width="32px" src="https://img.icons8.com/nolan/64/medium-new.png" />][medium]
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="C++" width="35px" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
@@ -46,12 +48,11 @@ Here are some ideas to get you started:
 <img align="left" alt="jQuery" width="35px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 
 
-
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Android Studio" width="30px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" alt="Swift" width="30px" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
+
+
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
