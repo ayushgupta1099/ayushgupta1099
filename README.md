@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>
 
-<img align="left" alt="Stackoverflow" width="26px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+<!-- <img align="left" alt="Stackoverflow" width="26px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/> -->
 
 <br />
 <br />
