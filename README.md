@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="32px" src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
-<!-- <img align="left" alt="Stackoverflow" width="26px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/> -->
+<img align="left" alt="Stackoverflow" width="26px"src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 
 <br />
 <br />
@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1099&theme=dark)](https://git.io/streak-stats)
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=merko)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=merko&count_private=true&hide=prs,issues,)
 
-<img align="left" alt="DevBahl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevBahl&show_icons=true&hide_border=true&count_private=true&hide=prs,issues" />
+<img align="left" alt="DevBahl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevBahl&show_icons=true&hide_border=true&count_private=true&hide=prs,issues," />
 
 
 --------------------------------------------
