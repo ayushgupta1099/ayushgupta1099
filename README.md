@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there, I am Ayush 👋
+ 
 
-## Developer and Designer!
+
+
+
+<h1 align="center">Hello there, I am Ayush 👋</h1>
+<h3 align="center">A Developer and Designer from India.</h3>
 
 - I strive to make pixel perfect websites with React
 - Currently a freelancer at YesMentor
@@ -28,11 +32,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="AyushGupta" width="22px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
-[<img align="left" alt="AyushGupta | LinkedIn" width="22px" src="https://img.icons8.com/fluent/80/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="AyushGupta | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="AyushGupta | Spotify" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-[<img align="left" alt="AyushGupta | Medium" width="22px" src="https://img.icons8.com/nolan/64/medium-new.png" />][medium]
+[<img align="left" alt="AyushGupta" width="30px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
+[<img align="left" alt="AyushGupta | LinkedIn" width="30px" src="https://img.icons8.com/fluent/80/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="AyushGupta | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="AyushGupta | Spotify" width="30px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
+[<img align="left" alt="AyushGupta | Medium" width="30px" src="https://img.icons8.com/nolan/64/medium-new.png" />][medium]
 <br />
 
 ### Languages and Tools:
