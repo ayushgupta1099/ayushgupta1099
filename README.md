@@ -72,6 +72,23 @@ Here are some ideas to get you started:
 
 ---
 
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta1099&show_icons=true&locale=en&layout=compact" alt="ayushgupta1099" />  
+
+--------------------------------------------------------------------
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1099&theme=dark)](https://git.io/streak-stats)
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=merko)
+
+
+
+
+-------------------------------------------------------------------
+
+[![Muskaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushgupta1099&theme=react-dark)](https://github.com/ayushgupta1099/github-readme-activity-graph)
+
+
+--------------------------------------------
+
 
 [website]: https://ayushgupta1099.netlify.app/
 [instagram]: https://www.instagram.com/ayushgupta_____/
