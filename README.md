@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs,issues,)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgupta1099&show_icons=true&theme=cobalt&hide_border=true&count_private=true&hide=prs,issues,)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1099&theme=dark)](https://git.io/streak-stats)
 
 
