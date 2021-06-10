@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Ask me about web development and we would have an engrossing discussion
 - How to reach me? DM me on **LinkedIn** or **Instagram**
 
+</br>
 ## Connect with me:
 
 [<img align="left" alt="AyushGupta" width="32px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
