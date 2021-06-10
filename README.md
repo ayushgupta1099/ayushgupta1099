@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="jQuery" width="35px" src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 </br>
-<img align="left" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img  alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img  alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </br>
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/nolan/64/github.png" />
