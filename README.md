@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="AyushGupta | Spotify" width="32px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
 [<img align="left" alt="AyushGupta | Medium" width="32px" src="https://img.icons8.com/nolan/64/medium-new.png" />][medium]
 
-
+</br>
+</br>
 
 
 ## Languages and Tools:
